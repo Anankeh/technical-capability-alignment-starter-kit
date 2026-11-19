@@ -105,3 +105,8 @@ Create:
 > Download the Technical Capability Alignment Starter Kit: a practical checklist and copy-ready prompt for defining performance outcomes, critical tasks, workforce capability, learning paths, and evidence of proficiency.
 
 **Reference resources:** [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) and [NICE Framework Resource Center](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center).
+
+
+## License
+
+Shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use, adapt, and share with attribution to Alejandra, [My Compass Journey](https://mycompassjourney.org/).
